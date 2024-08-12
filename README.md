@@ -3,7 +3,7 @@
 
 Project structure:
 ```
-.
+├
 ├── compose.yaml
 ├── app
     ├── Dockerfile
